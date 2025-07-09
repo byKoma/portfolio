@@ -45,7 +45,7 @@ The following images are required for the website to function correctly:
 To customize the website:
 
 1. Update your personal information in `index.html`  
-   > 💡 *If you want this website customized for you and ready to host, you can get a pre-configured version on my Patreon:*  
+   > 💡 *If you want this website customized for you and ready to host, you can get a pre-configured version on my Ko-fi:*  
    > 👉 [ko-fi.com/bykoma](https://ko-fi.com/s/58494c0c1e)
 2. Replace the placeholder images in the `img/` folder with your own images  
 3. Adjust colors in the CSS file if needed by changing the variables in the `:root` section  
