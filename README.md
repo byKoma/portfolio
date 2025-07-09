@@ -46,7 +46,7 @@ To customize the website:
 
 1. Update your personal information in `index.html`  
    > 💡 *If you want this website customized for you and ready to host, you can get a pre-configured version on my Patreon:*  
-   > 👉 [patreon.com/bykoma](https://patreon.com/bykoma)
+   > 👉 [ko-fi.com/bykoma](https://ko-fi.com/s/58494c0c1e)
 2. Replace the placeholder images in the `img/` folder with your own images  
 3. Adjust colors in the CSS file if needed by changing the variables in the `:root` section  
 4. Add your own projects by editing the project sections in `index.html`
